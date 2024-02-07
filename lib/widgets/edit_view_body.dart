@@ -22,17 +22,16 @@ class EditViewBody extends StatelessWidget {
             height: 50,
           ),
           CustomTextFild(
-            hintText: 'lll',
+            hintText: 'title',
             maxLine: 1,
           ),
           SizedBox(
-            height: 10,
+            height: 16,
           ),
           CustomTextFild(
-            hintText: 'lll',
+            hintText: 'contect',
             maxLine: 5,
           ),
-          CustomButton(),
         ],
       ),
     );
