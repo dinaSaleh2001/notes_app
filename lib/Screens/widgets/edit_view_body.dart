@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:store_app/widgets/custom_app_bar.dart';
-import 'package:store_app/widgets/custom_button.dart';
-import 'package:store_app/widgets/custom_text_fild.dart';
+import 'package:store_app/Screens/widgets/custom_app_bar.dart';
+import 'package:store_app/Screens/widgets/custom_button.dart';
+import 'package:store_app/Screens/widgets/custom_text_fild.dart';
 
 class EditViewBody extends StatelessWidget {
   const EditViewBody({super.key});

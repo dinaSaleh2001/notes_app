@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:store_app/constant.dart';
-import 'package:store_app/widgets/custom_button.dart';
-import 'package:store_app/widgets/custom_text_fild.dart';
+import 'package:store_app/Screens/widgets/custom_button.dart';
+import 'package:store_app/Screens/widgets/custom_text_fild.dart';
 
 class AddNoteButtonSheet extends StatelessWidget {
   const AddNoteButtonSheet({super.key});
